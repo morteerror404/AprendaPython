@@ -11,5 +11,3 @@ print("Em outra partição existe dinheiro em espécie, uma nota de 50, outra de
 print("Total em notas: ", valor_notas)
 
 print("Também temos moedas, pois acabei de comprar um punhado de balas sortidas, o vendedor me devolveu ", valor_moedas, " R$ em moedas.")
-
-
