@@ -17,5 +17,5 @@ print ()
 
 # aqui temos um problema, como podemos printar o valor total sem erro (DICA: pense fora da caixa, você pode alterar minhas variáveis) ?
 
-print("o valor total de Notas e Moédas é: ", valor total)
+print("o valor total de Notas e Moédas é: ", valortotal)
 
