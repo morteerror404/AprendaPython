@@ -161,4 +161,3 @@ produto = {
 ## 📚 **Para Aprofundar**
 - [Documentação Oficial](https://docs.python.org/3/library/stdtypes.html)
 - Livro: "Python Fluente" (Luciano Ramalho) - Cap. 2.
-```

@@ -171,4 +171,3 @@ print(f"{numero} é primo!" if eh_primo else "Não é primo.")
 ## 📚 **Para Aprofundar**
 - [Documentação Oficial - Compound Statements](https://docs.python.org/3/reference/compound_stmts.html)
 - Livro: "Python Crash Course" (Eric Matthes) - Cap. 5 e 7.
-```

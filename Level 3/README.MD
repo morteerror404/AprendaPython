@@ -230,4 +230,3 @@ processar_dados([1.5, 2.3, 4.1], operacao="media", fator=1.1)
 - [Documentação Oficial - Funções](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
 - Livro "Fluent Python" - Capítulos 5 (First-Class Functions) e 7 (Function Decorators)
 - PEP 484 (Type Hints): [pep-0484](https://peps.python.org/pep-0484/)
-```

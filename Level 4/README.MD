@@ -159,11 +159,8 @@ media.plot(kind='barh')
 plt.title("Vendas Médias por Cidade")
 plt.savefig('grafico.png')
 ```
-
 ---
-
 ## 📚 **Recursos para Aprender**
 1. [Python Package Index (PyPI)](https://pypi.org/)
 2. [Awesome Python](https://github.com/vinta/awesome-python)
 3. [Real Python Tutorials](https://realpython.com/)
-```
